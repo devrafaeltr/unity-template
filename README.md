@@ -1,3 +1,3 @@
 # unity-template
 
-A basic template for repositories #MadeWithUnity.
+A basic template for public repositories #MadeWithUnity.
